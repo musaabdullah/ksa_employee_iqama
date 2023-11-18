@@ -10,8 +10,7 @@
     "description": """
     """,
     "author": "Musa Abdullah",
-    "website" : "",
-    "price": 000,
+    "website" : "example@gmail.com",
     "currency": 'SAR',
     "depends" : ['hr'],
     "data": [
